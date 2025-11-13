@@ -5,7 +5,7 @@ Mall BXChange mengalami masalah antrian panjang parkir, keterbatasan informasi s
 
 ## Analisis Kelayakan
 - **Teknis**: Layak (sensor parkir, web app, payment gateway tersedia).
-- **Ekonomi**: Layak (investasi ± Rp 5 Miliar, efisiensi ± Rp 1 Miliar/tahun).
+- **Ekonomi**: Layak (investasi ± Rp 2 Miliar).
 - **Operasional**: Layak (tim internal + vendor siap).
 - **Hukum**: Layak (UU ITE, UU PDP, regulasi cashless BI).
 - **Waktu**: Layak (implementasi 6–8 bulan).
@@ -18,3 +18,4 @@ Mall BXChange mengalami masalah antrian panjang parkir, keterbatasan informasi s
 
 ## Kesimpulan
 Proyek **layak dilanjutkan** ke tahap Project Planning.
+
